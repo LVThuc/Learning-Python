@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:/project2024/learnpython/.venv/Scripts/python.exe",
+    "code-runner.executorMap": {
+        "python": "C:/project2024/learnpython/.venv/Scripts/python.exe"
+    },
+    "code-runner.runInTerminal": true
+}
