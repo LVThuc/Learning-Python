@@ -1,0 +1,71 @@
+[33mcommit 1590629992a06c1ef9491e045615348027483698[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: LVThuc <24521748gm.uit.edu.vn>
+Date:   Fri Nov 15 03:16:36 2024 +0700
+
+    Remove venv directory from tracking
+
+[33mcommit 566f5f3a78fe060306798f2cf4418ed2be943b8a[m
+Author: LVThuc <24521748gm.uit.edu.vn>
+Date:   Fri Nov 15 03:10:32 2024 +0700
+
+    add venv in
+
+[33mcommit 2caab60000fc4141c136abdcfd9bae4c7280b0a1[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: LVThuc <24521748gm.uit.edu.vn>
+Date:   Fri Nov 15 02:39:32 2024 +0700
+
+    Add plottest.py
+
+[33mcommit fcccae5fae4056c5cfa12167869363a97fc181c5[m
+Author: LVThuc <24521748gm.uit.edu.vn>
+Date:   Fri Nov 15 02:37:09 2024 +0700
+
+    Testing plottest
+
+[33mcommit b2112dada20db8bfd2d24c7033229a73dc75d47d[m
+Author: LVThuc <24521748gm.uit.edu.vn>
+Date:   Thu Nov 14 02:46:18 2024 +0700
+
+    add code folder
+
+[33mcommit 0df848ad5989ecc5a53920451aadc746ba3e84fd[m
+Author: LVThuc <2452174@gm.uit.edu.vn>
+Date:   Thu Nov 14 02:37:21 2024 +0700
+
+    Remove .venv directory from tracking
+
+[33mcommit 9e3cc2ea5917b6d581b6c3f148c80acc8eadb918[m
+Author: LVThuc <2452174@gm.uit.edu.vn>
+Date:   Thu Nov 14 02:37:10 2024 +0700
+
+    Update .gitignore to ignore .venv directory
+
+[33mcommit 8c5aed90b461efc3711d82bfa0817d6d7988ab6b[m
+Author: LVThuc <2452174@gm.uit.edu.vn>
+Date:   Thu Nov 14 02:24:34 2024 +0700
+
+    Remove .venv directory from tracking
+
+[33mcommit f1c358e35af1584d7ac7cfedbdbc833855427433[m
+Author: LVThuc <2452174@gm.uit.edu.vn>
+Date:   Thu Nov 14 02:23:27 2024 +0700
+
+    Remove .venv directory from tracking
+
+[33mcommit 9641e196bfd961434c370a25365a65ffc9f7c85a[m
+Author: LVThuc <2452174@gm.uit.edu.vn>
+Date:   Thu Nov 14 02:22:41 2024 +0700
+
+    Initial commit
+
+[33mcommit c341047d8afffc0306f9d4dace14cb261eb1e9f3[m
+Author: LVThuc <2452174@gm.uit.edu.vn>
+Date:   Thu Nov 14 02:22:09 2024 +0700
+
+    Remove .venv directory from tracking
+
+[33mcommit ffa37930252c43b1b32cefc13b6851ed96b60654[m
+Author: LVThuc <2452174@gm.uit.edu.vn>
+Date:   Thu Nov 14 02:21:17 2024 +0700
+
+    Initial commit
